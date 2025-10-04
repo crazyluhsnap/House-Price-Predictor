@@ -15,17 +15,17 @@ preprocessing, model training, and evaluation work together.
 ## ⚙️ Steps Covered
 
 1.  **Importing Libraries** -- Basic setup using pandas, numpy,
-    matplotlib, seaborn, and scikit-learn.\
+    matplotlib, seaborn, and scikit-learn.
 2.  **Loading the Dataset** -- Reads and inspects the dataset to
-    understand its structure.\
+    understand its structure.
 3.  **Data Exploration** -- Includes correlation heatmaps, pair plots,
-    and statistical summaries to spot relationships between variables.\
+    and statistical summaries to spot relationships between variables.
 4.  **Data Preprocessing** -- Handles missing values, normalizes
-    features, and splits data into training and testing sets.\
+    features, and splits data into training and testing sets.
 5.  **Model Training** -- Uses linear regression to predict house
-    prices.\
+    prices.
 6.  **Model Evaluation** -- Evaluates performance using metrics like R²
-    score and mean absolute error.\
+    score and mean absolute error.
 7.  **Prediction** -- Takes sample input data and predicts the expected
     house price.
 
@@ -46,6 +46,6 @@ features influence the price.
 ## 🚀 Future Improvements
 
 -   Try other models like Decision Tree or Random Forest for
-    comparison.\
--   Add feature scaling and hyperparameter tuning for better accuracy.\
+    comparison.
+-   Add feature scaling and hyperparameter tuning for better accuracy.
 -   Deploy the model using a simple web interface.
